@@ -2,7 +2,7 @@
   width: 24px;
   height: 24px;
   display: inline-block;
-  background-image: url("img/Menu.svg");
+  background-image: url("imagem/Menu.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -41,10 +41,12 @@
 .lista-menu__titulo,
 .lista-menu__item {
   padding: 1em;
+  background: var(--branco);
 }
 
 .lista-menu__titulo {
   color: var(--laranja);
+  font-weight: 700;
 }
 
 .lista-menu__link {
