@@ -64,3 +64,12 @@
         font-family: var(--fonte-secundario);
         font-size: 30px;
 }
+.container_titulo {
+  font-weight: 400;
+}
+
+.container_titulo--negrito {
+  font-weight: 700;
+}
+
+}
