@@ -102,6 +102,10 @@ display: none;
     text-decoration: none;
     color: var(--preto);
   }
+
+  .container__imagem-tranparente{
+    display: none;
+  }
 }
 
 
