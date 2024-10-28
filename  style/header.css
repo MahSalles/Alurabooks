@@ -106,6 +106,10 @@ display: none;
   .container__imagem-tranparente{
     display: none;
   }
+
+  .cabeçalho__menu-hamburguer{
+    display: none;
+  }
 }
 
 
