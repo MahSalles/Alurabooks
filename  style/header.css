@@ -120,6 +120,9 @@
     color: var(--branco);
   }
 
+  .opções__item{
+    padding: 2em 1em;
+  }
 }
 
 .container__texto {
